@@ -1,0 +1,43 @@
+var multiConfig = {"THISROOM":"cen@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["entrance","main","spirits","throne","guest","powder","servants","dining","coffin","chapel","dungeon","ghoul","library","cemetery","village","park","slums","tower","maze"],"defaultView":"entrance"}
+
+var roomstuff = {"rooms":{
+
+"entrance":{"rName":"Entrance","backgroundImage":"https://soi-cen.hyperchat.com/ENTRANCEBACKUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/ENTRANCEtopUSE.png><br>Welcome to Château de la Nuit Éternelle<br></center>","roombottom":""},
+
+"main":{"rName":"Main Hall","backgroundImage":"https://soi-cen.hyperchat.com/MAINBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/MAINTOPUSE.png><br>Welcome to the Grand Main Hall<br></center>","roombottom":""},
+
+"spirits":{"rName":"Hall of Spirits","backgroundImage":"https://soi-cen.hyperchat.com/hallofspiritsbackgrounduse.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/hallofspiritspossible.jpg><br>The Hall of Spirits<br></center>","roombottom":""},
+
+"throne":{"rName":"Throne room","backgroundImage":"https://soi-cen.hyperchat.com/throneroombackforsure.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/thronetop.png><br>Welcome to the Throne Room<br></center>","roombottom":""},
+
+"guest":{"rName":"The Guest Room","backgroundImage":"https://soi-cen.hyperchat.com/GUESTROOMBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/Abedroomwithabalconyforhumansback.jpg><br>Welcome to the Guest Room<br></center>","roombottom":""},
+
+"powder":{"rName":"powder","backgroundImage":"https://soi-cen.hyperchat.com/powderroomtopUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/POWDERROOMTOPUSE.png><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
+
+"servants":{"rName":"servants quaters","backgroundImage":"https://soi-cen.hyperchat.com/SERVEANTSQUARTERBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/SERVEANTSQUARTERTOPUSE.png><br>The Servant's Quarters<br></center>","roombottom":""},
+
+"dining":{"rName":"Dining Hall","backgroundImage":"https://soi-cen.hyperchat.com/DININGHALLBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/dininghalltop.png><br>The Dining Hall<br></center>","roombottom":""},
+
+"coffin":{"rName":"The Coffin Room","backgroundImage":"https://soi-cen.hyperchat.com/COFFINBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/coffinroomtop.jpg><br>The Coffin Room<BR>A resting place<BR>for Them<br></center>","roombottom":""},
+
+"chapel":{"rName":"The Chapel","backgroundImage":"https://soi-cen.hyperchat.com/forsakenchapelback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/forsakenchapel.png><br>The Forsaken Chapel<br></center>","roombottom":""},
+
+"dungeon":{"rName":"The Dungeon","backgroundImage":"https://soi-cen.hyperchat.com/Dungeonnotafunone.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/Dungeonnotafunonetop.jpg><br>The Dungeon<br></center>","roombottom":""},
+
+"ghoul":{"rName":"The Ghouls Room","backgroundImage":"https://soi-cen.hyperchat.com/GhoulroomUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/ghoulroomtopUSE.png><br>Welcome to The Ghouls Room<br></center>","roombottom":""},
+
+"library":{"rName":"The Library","backgroundImage":"https://soi-cen.hyperchat.com/librarytop.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/Alibrarytop.jpg><br>The Library<br></center>","roombottom":""},
+
+"cemetery":{"rName":"The Cemetery","backgroundImage":"https://soi-cen.hyperchat.com/familycemeteryback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/FamilyCemeterytop.jpg><br>The Family Cemetery<br></center>","roombottom":""},
+
+"village":{"rName":"The Village","backgroundImage":"https://soi-cen.hyperchat.com/VILLAGEBACKROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/villagetop.png><br>Welcome to the Village<br></center>","roombottom":""},
+
+"park":{"rName":"The Park","backgroundImage":"https://soi-cen.hyperchat.com/VILLAGEPARKBACKGROUNDUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/outdoorparkforvillagetop.png><br>Welcome to The Village Park<br></center>","roombottom":""},
+
+"slums":{"rName":"The Slums","backgroundImage":"https://soi-cen.hyperchat.com/VILLAGESLUMSBACKGROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/theslumsforthevillagetop.png><br>Welcome to The Village Slums<br></center>","roombottom":""},
+
+"tower":{"rName":"The Tower","backgroundImage":"https://soi-cen.hyperchat.com/towerbackuse.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/towertop.png><br>The Terrified Tower<br></center>","roombottom":""},
+
+"maze":{"rName":"The Maze","backgroundImage":"https://soi-cen.hyperchat.com/MAZEGARDENBACKUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/mazegardentop.png><br>Welcome to The Maze Garden<br></center>","roombottom":""},
+  
+}}
