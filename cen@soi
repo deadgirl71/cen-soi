@@ -12,7 +12,7 @@ var roomstuff = {"rooms":{
 
 "guest":{"rName":"The Guest Room","backgroundImage":"https://soi-cen.hyperchat.com/GUESTROOMBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/Abedroomwithabalconyforhumansback.jpg><br>Welcome to the Guest Room<br></center>","roombottom":""},
 
-"powder":{"rName":"powder","backgroundImage":"https://soi-cen.hyperchat.com/powderroomtopUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/POWDERROOMTOPUSE.png><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
+"powder":{"rName":"her Powder Room","backgroundImage":"https://soi-cen.hyperchat.com/POWDERROOMBACKUSETHIS.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/POWDERROOMTOPUSE.png><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
 
 "servants":{"rName":"servants quaters","backgroundImage":"https://soi-cen.hyperchat.com/SERVEANTSQUARTERBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/SERVEANTSQUARTERTOPUSE.png><br>The Servant's Quarters<br></center>","roombottom":""},
 
