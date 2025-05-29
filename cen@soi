@@ -8,13 +8,13 @@ var roomstuff = {"rooms":{
 
 "spirits":{"rName":"Hall of Spirits","backgroundImage":"https://soi-cen.hyperchat.com/hallofspiritsbackgrounduse.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/hallofspiritspossible.jpg><br>The Hall of Spirits<br></center>","roombottom":""},
 
-"throne":{"rName":"Throne room","backgroundImage":"https://soi-cen.hyperchat.com/throneroombackforsure.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/thronetop.png><br>Welcome to the Throne Room<br></center>","roombottom":""},
+"throne":{"rName":"Throne room","backgroundImage":"https://soi-cen.hyperchat.com/THRONEROOMBACKROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/THRONETOPUSE.jpg><br>Welcome to the Throne Room<br></center>","roombottom":""},
 
 "guest":{"rName":"The Guest Room","backgroundImage":"https://soi-cen.hyperchat.com/GUESTROOMBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/Abedroomwithabalconyforhumansback.jpg><br>Welcome to the Guest Room<br></center>","roombottom":""},
 
-"powder":{"rName":"her Powder Room","backgroundImage":"https://soi-cen.hyperchat.com/POWDERROOMBACKUSETHIS.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/POWDERROOMTOPUSE.png><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
+"powder":{"rName":"her Powder Room","backgroundImage":"https://soi-cen.hyperchat.com/ldgpowderroom5background.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/ldgpowderroomtopUSE.jpg><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
 
-"servants":{"rName":"servants quaters","backgroundImage":"https://soi-cen.hyperchat.com/SERVEANTSQUARTERBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/SERVEANTSQUARTERTOPUSE.png><br>The Servant's Quarters<br></center>","roombottom":""},
+"servants":{"rName":"servants quaters","backgroundImage":"https://soi-cen.hyperchat.com/servantBACKGROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/servantstopUSE.jpg><br>The Servant's Quarters<br></center>","roombottom":""},
 
 "dining":{"rName":"Dining Hall","backgroundImage":"https://soi-cen.hyperchat.com/DININGHALLBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/dininghalltop.png><br>The Dining Hall<br></center>","roombottom":""},
 
